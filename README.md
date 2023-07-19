@@ -1,5 +1,5 @@
 # CVcontrols
-# python application fro volume controls using hand gestures
+# python application for volume controls using hand gestures
 # run py webcam.py
 # after the camera pops up
       -> index close to thumb for volume down
