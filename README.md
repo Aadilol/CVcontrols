@@ -5,4 +5,5 @@
       -> index close to thumb for volume down
       -> index away from thumb for volume up
       -> open hand to pause (spacebar)
-# usable but still being optimised for more functions
+      -> middle and index up together (closed peace sign) to switch tabs
+      -> middle finger down (only index up) to select the tab
