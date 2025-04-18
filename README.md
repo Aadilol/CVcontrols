@@ -15,9 +15,9 @@ How It Works
         Different gestures (fist, pinky, peace, index) will control system volume and media playback.
 
     👉 Index Finger Only (One Hand)	        - Move the mouse cursor
-    ✌️ Peace Sign (One Hand)	            - Mouse click and drag (hold down and move)
-    ✊ Fist (One Hand)	                    - Single left-click
-    ✊ Fist (Two Hands Mode)	            - Decrease volume
+    ✌️ Peace Sign (One Hand)	          - Mouse click and drag (hold down and move)
+    ✊ Fist (One Hand)	                  - Single left-click
+    ✊ Fist (Two Hands Mode)	          - Decrease volume
     🤙 Pinky Finger Only (Two Hands Mode)	- Increase volume
     ✌️ Peace Sign (Two Hands Mode)	        - Play the next media track
     👉 Index Finger Only (Two Hands Mode)	- Play/Pause current media track
